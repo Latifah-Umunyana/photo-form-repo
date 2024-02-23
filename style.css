@@ -1,0 +1,76 @@
+
+#heading{
+    color: aqua;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+}
+.borders{
+    border-radius: 5px;
+    border-color:aqua;
+    padding: 5px;
+    width:95%;
+}
+#button{
+    background-color: aqua;
+    color: white;
+    border-color: aqua;
+    width: 98%;
+    padding: 5px;
+    border-radius: 5px;
+}
+#or{
+    margin: 50%;
+}
+#label1{
+    color: aqua;
+}
+.name{
+    width: 20%;
+    border-color: aqua;
+    border-radius: 5px;
+    padding: 5px;
+    gap: 10px;
+}
+#child-div{
+    display: flex;
+    align-items: center;
+
+}
+#parent-Div{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 5%;
+}
+#footer{
+ margin: 20%;
+}
+#google-link{
+    text-decoration: none;
+    color: black;
+    
+}
+.label{
+    border:solid aqua 1px;
+    padding: 2px 5px;
+    width: 100%;
+border-radius: 5px;
+}
+#icons{
+    display: flex;
+    gap: 10%;
+    margin: 0%;
+}
+#input-name{
+    gap: 50%;
+}
+.top-right {
+    position: absolute;
+    top: 8px;
+    right: 16px;
+  }
+  #img {
+    position: relative;
+    text-align: center;
+    color: darkslategray;
+    font-size: 250%;
+  }  
